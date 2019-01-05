@@ -1,0 +1,55 @@
+# Unity
+Library
+Temp
+*.pidb
+*.userprefs
+.collabignore	
+Assets/Photon Unity Networking
+Assets/PhotonChatApi
+Assets/Plugins
+Assets/ProceduralMeshGeneration
+Assets/SteamVR
+Assets/VR Desktop Mirror
+Assets/WebRtcVideoChat
+
+
+Assets/WebRtcVideoChat.meta
+PhotonChat.csproj
+PhotonRealtime.csproj
+PhotonUnityNetworking.Editor.csproj
+PhotonUnityNetworking.Utilities.Culling.Editor.csproj
+PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj
+PhotonUnityNetworking.Utilities.csproj
+PhotonUnityNetworking.csproj
+Assets/Photon Unity Networking.meta
+PhotonWebSocket.csproj
+Assets/Photon Unity Networking.meta
+Assets/PhotonChatApi.meta
+Assets/Plugins.meta
+Assets/ProceduralMeshGeneration.meta
+Assets/SteamVR.meta
+Assets/VR Desktop Mirror.meta
+
+
+
+
+# Xcode
+xcuserdata
+xcshareddata
+*.pbxuser
+
+# Visual Studio
+Debug/
+Release/
+x64/
+x86/
+build/
+ipch/
+*.sdf
+.vs
+
+# Misc
+*.swp
+*.lnk
+.DS_Store
+Thumbs.db
